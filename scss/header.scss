@@ -1,0 +1,139 @@
+.header{
+    background: url("../img/header/bg.PNG") center / cover no-repeat;
+}
+.nav{
+    display: flex;
+    width: 100%;
+    height: 60px;
+    padding: 50px 0;
+    &__logo{
+        z-index: 5;
+        width: 30%;
+        display: flex;
+        flex-direction: column;
+    }
+    &__title{
+        font-size: 30px;
+        font-family: "Georgia";
+        color: rgb(241, 205, 179);
+        line-height: 1.2;
+    }
+    &__subtitle{
+        font-size: 13px;
+        font-family: "Arial";
+        color: rgb(255, 255, 255);
+        line-height: 1;
+    }
+    &__menu{   
+        width: 70%;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+    }
+    &__link{
+        font-size: 15px;
+        font-family: "Arial";
+        color: rgb(205, 205, 205);
+        line-height: 1.933;
+        text-decoration: none;
+        &:hover{
+            color: #f1cdb3;
+            position: relative;
+            &::after{
+                content: "";
+                width: 100%;
+                height: 2px;
+                background: #f1cdb3;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+            }
+        }
+    }
+    @media screen and (min-width:767px) {
+        &__link{
+            margin: 0 35px 0 0;
+        }
+        &__menu{   
+            flex-wrap: wrap;
+        }
+    }
+    @media screen and (max-width:767px) {
+        &__burger-icon{
+            width: 20%;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            padding: 0 30px 0 0;
+        }
+        &__logo{
+            width: 80%;   
+        }
+    }
+
+}
+.item{
+    display: flex;
+    width: 100%;
+    &__main{
+        width: 40%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    &__title{
+        font-size: 44px;
+        font-family: "Georgia";
+        color: rgb(255, 255, 255);
+        line-height: 1.295;
+    }
+    &__subtitle{
+        margin: 40px 0 40px 0;
+        font-size: 15px;
+        font-family: "Arial";
+        color: rgb(205, 205, 205);
+        line-height: 1.6;
+    }
+    &__button{
+        border-radius: 50px;
+        padding: 20px 45px;
+        font-size: 17px;
+        font-family: "Georgia";
+        color: rgb(41, 41, 41);
+        line-height: 1;
+        background: #f1cdb3;
+        border: none;
+        cursor: pointer;
+        &:hover{
+            background: #fddcc4;
+            box-shadow: 1px 1px 5px #000;
+            outline: none;
+        }
+    }
+    &__img{
+        width: 60%;
+        img{
+            margin: 0 -20px 0 20px;
+            width: 100%;
+            object-fit: cover;
+            object-position: center;
+            height: 100%;
+        }
+    }
+
+    @media screen and (max-width:780px) {
+        &__main{
+            width: 100%;
+            padding: 0 0 50px 0;
+        }
+    }
+    @media screen and (max-width:600px) {
+        &__img{
+            display: none;
+        }
+    }
+}
+
+  
+  

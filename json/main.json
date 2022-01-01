@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Katrine",
+        "img": "/img/pets/01.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"4 years"
+    },
+    {
+        "name": "Jennifer",
+        "img": "/img/pets/02.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"3 months"
+    },
+    {
+        "name": "Jennifer",
+        "img": "/img/pets/03.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"4 years"
+    },
+    {
+        "name": "Katrine",
+        "img": "/img/pets/04.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"3 years"
+    },
+    {
+        "name": "Jennifer",
+        "img": "/img/pets/05.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"6 years"
+    },
+    {
+        "name": "Katrine",
+        "img": "/img/pets/06.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"5 years"
+    },
+    {
+        "name": "Jennifer",
+        "img": "/img/pets/07.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"7 years"
+    },
+    {
+        "name": "Jennifer",
+        "img": "/img/pets/08.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"2 years"
+    },
+    {
+        "name": "Katrine",
+        "img": "/img/pets/09.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"3 years"
+    },
+    {
+        "name": "Jennifer",
+        "img": "/img/pets/10.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"3 years"
+    },
+    {
+        "name": "Jennifer",
+        "img": "/img/pets/11.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"1 month"
+    },
+    {
+        "name": "Jennifer",
+        "img": "/img/pets/12.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"2 years"
+    },
+    {
+        "name": "Jennifer",
+        "img": "/img/pets/13.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"5 years"
+    },
+    {
+        "name": "Jennifer",
+        "img": "/img/pets/14.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"1.5 month"
+    },
+    {
+        "name": "Jennifer",
+        "img": "/img/pets/15.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"3.5 years"
+    },
+    {
+        "name": "Jennifer",
+        "img": "/img/pets/16.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"3 years"
+    },
+    {
+        "name": "Jennifer",
+        "img": "/img/pets/17.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"6 years"
+    },
+    {
+        "name": "Jennifer",
+        "img": "/img/pets/18.PNG",
+        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam soluta pariatur voluptates dolorum maiores officiis saepe tenetur, repudiandae quod beatae provident dolore vitae consequatur, accusantium quos sequi aperiam suscipit, et velit! Molestiae nobis placeat tenetur. Vero et molestiae maiores dolorem assumenda, ea reprehenderit voluptates dolore accusantium iure quis dolorum eos!",
+        "age":"5 years"
+    }
+]

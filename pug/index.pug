@@ -1,0 +1,123 @@
+doctype html
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(http-equiv="X-UA-Compatible", content="IE=edge")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+        title Document
+        link(rel="stylesheet", href="css/style.css")
+    body
+        .page
+            header.page__header.header 
+                .header__container._container
+                    nav.nav
+                        .nav__logo 
+                            .nav__title Cozy House
+                            .nav__subtitle Shelter for pets in Boston 
+                        .nav__burger-icon
+                            .burger-icon
+                                span
+                        .nav__menu.burger-body
+                            a.nav__link(href="") About the shelter
+                            a.nav__link(href="") Our pets
+                            a.nav__link(href="") To help the shelter
+                            a.nav__link(href="") Contacts
+                    .item 
+                        .item__main
+                            .item__title Not only people need a house
+                            .item__subtitle Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio eum distinctio id laboriosam, repudiandae eius atque velit eaque facilis quae.
+                            button.item__button Make a friend
+                        .item__img
+                            img(src="./img/header/01.png", alt="PHG")
+            .page__about.about 
+                .about__container._container 
+                    .about__block
+                        .about__img 
+                            img(src="./img/about/01.PNG", alt="")
+                        .about__item 
+                            .about__title About the shelter “Cozy House”
+                            .about__text Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, quidem? Eius molestiae quisquam sint eveniet ullam dolorum a illo voluptates neque consequatur ea laudantium, necessitatibus repellat quae obcaecati quis soluta?
+                            .about__text Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem aliquam delectus ab voluptates esse alias dolorem ipsam et placeat atque laudantium sunt odit consequuntur, provident nulla? Reiciendis consequuntur repellat a sed minima asperiores dolor beatae quae explicabo laborum ad, illo saepe cupiditate harum facere soluta mollitia amet. Amet omnis facere est at magni esse nemo, corrupti, a provident, aliquam quis?
+            .page__pets.pets 
+                .pets__container._container 
+                    .pets__title Our friends who are looking for a house
+                    .modal
+                        .modal_container._container
+                            .modal__cross 
+                                span 
+                                span
+                            .modal__container 
+                                .modal__img 
+                                    img(src="", alt="")
+                                .modal__text
+                                    .modal__name
+                                    .modal__about
+                                    .modal__age
+                    .pets__slider.slider
+                        .slider__arrow.slider__arrow_left -
+                        .slider__container
+                        .slider__arrow.slider__arrow_right +
+                    button.pets__button Get to know the rest    
+            .page__help.help 
+                .help__container._container 
+                    .help__title Than you can help our shelter
+                    .help__icon
+                        .help__block 
+                            img.help__img(src="./img/icon/01.PNG", alt="")
+                            .help__text Pet food
+                        .help__block 
+                            img.help__img(src="./img/icon/02.PNG", alt="")
+                            .help__text Transportation
+                        .help__block 
+                            img.help__img(src="./img/icon/03.PNG", alt="")
+                            .help__text Toys
+                        .help__block 
+                            img.help__img(src="./img/icon/04.PNG", alt="")
+                            .help__text Bowls and cups
+                        .help__block  
+                            img.help__img(src="./img/icon/05.PNG", alt="")
+                            .help__text Shampoos
+                        .help__block     
+                            img.help__img(src="./img/icon/06.PNG", alt="")
+                            .help__text Vitamins
+                        .help__block 
+                            img.help__img(src="./img/icon/07.PNG", alt="")
+                            .help__text Medicines
+                        .help__block  
+                            img.help__img(src="./img/icon/08.PNG", alt="")
+                            .help__text Collars / leashes
+                        .help__block 
+                            img.help__img(src="./img/icon/09.PNG", alt="")
+                            .help__text Sleeping area
+            .page__donate.donate
+                .donate__container._container 
+                    .donate__img 
+                        img(src="./img/01.PNG", alt="")
+                    .donate__list 
+                        .donate__title In addition, you  can make a donation
+                        .donate__type-bank Name of the bank / Type of bank account
+                        .donate__number 
+                            img(src="./img/icon/10.PNG", alt="")
+                            p 8380 2880 8028 8791 7435
+                        .donate__text Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus aliquam quam assumenda voluptatibus doloribus quo illum, nulla iusto perferendis adipisci fugiat corrupti consequatur natus libero quisquam unde soluta, nam incidunt fuga rem optio, eius non nesciunt!
+            .footer 
+                .footer__container._container 
+                    .footer__column
+                        .footer__title For questions  and suggestions
+                        .footer__subtitle 
+                            img(src="../img/icon/11.PNG", alt="")
+                            p email@shelter.com
+                        .footer__subtitle 
+                            img(src="../img/icon/12.PNG", alt="")
+                            p +13 674 567 75 54
+                    .footer__column
+                        .footer__title We are waiting  for your visit
+                        .footer__subtitle
+                            img(src="../img/icon/13.PNG", alt="")
+                            p Boston, Central Street, 1st (Entrance from the store)
+                        .footer__subtitle 
+                            img(src="../img/icon/13.PNG", alt="")
+                            p London, South Park, 18st
+                    .footer__column
+                        img(src="./img/02.PNG", alt="")
+        script(src="./js/main.js") 

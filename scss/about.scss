@@ -1,0 +1,68 @@
+.about{
+    &__container{
+    }
+    &__block{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 70px 0;
+    }
+    &__img{
+        width: 30%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        img{
+            width: 80%;
+            object-fit: cover;
+        }
+    }
+    &__item{
+        width:50%;
+    }
+    &__title{
+        font-size: 35px;
+        font-family: "Georgia";
+        color: rgb(84, 84, 84);
+        line-height: 1.286;
+    }
+    &__text{
+        font-size: 15px;
+        font-family: "Arial";
+        color: rgb(76, 76, 76);
+        line-height: 1.6;
+        margin: 25px 0 0 0;
+    }
+    @media screen and (max-width:1080px) {
+        &__block{
+            flex-direction: column;
+    
+        }
+        &__img{
+            width: 80%;
+        }
+        &__item{
+            width: 95%;
+        }
+    }
+    @media screen and (max-width:680px) {
+        &__img{
+            width: 100%;
+            img{
+                width: 100%;
+                object-fit: cover;
+                object-position: center;
+            }
+        }
+        &__text{
+            font-size: 15px;
+            font-family: "Arial";
+            color: rgb(76, 76, 76);
+            line-height: 1.6;
+            margin: 5px 0 0 0;
+        }
+    }
+}
+
+  
+  

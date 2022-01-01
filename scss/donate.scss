@@ -1,0 +1,77 @@
+.donate{
+    margin-top: 60px;
+    &__container{
+        display: flex;
+        align-items: center;
+    }
+    &__img{
+        width: 50%;
+        img{
+            width: 100%;
+            object-position: center;
+            object-fit: cover;
+        }
+    }
+    &__list{
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    &__title{
+        font-size: 35px;
+        font-family: "Georgia";
+        color: rgb(84, 84, 84);
+        line-height: 1.286;
+        max-width: 500px;
+    }
+    &__type-bank{
+        font-size: 15px;
+        font-family: "Georgia";
+        color: rgb(84, 84, 84);
+        line-height: 1.2;
+        margin: 25px 0 10px 0;
+    }
+    &__number{
+        background: #f1cdb3;
+        padding: 0px 15px 0px 15px;
+        border-radius: 15px;
+        font-size: 20px;
+        font-family: "Times New Roman";
+        color: rgb(41, 41, 41);
+        line-height: 1;
+        display: flex;
+        align-items: center;
+        img{
+            width: 35px;
+            height: 35px;
+            margin: 0 10px 0 0;
+        }
+        p{
+            width: 90%;
+        }
+    }  
+    &__text{
+        margin-top: 30px;
+        font-size: 12px;
+        font-family: "Arial";
+        color: rgb(178, 178, 178);
+        font-style: italic;
+        line-height: 1.5;
+        max-width: 500px;
+    }   
+    @media screen and (max-width:900px) {
+        &__container{
+            display: flex;
+            align-items: center;
+            flex-direction: column-reverse;
+        }
+        &__img{
+            width: 80%;
+        }
+        &__list{
+            width: 90%;
+        }
+    }     
+}
